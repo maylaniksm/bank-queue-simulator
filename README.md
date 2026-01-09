@@ -709,15 +709,6 @@ config = {
 
 ---
 
-## 🙏 Acknowledgments
-
-Terima kasih kepada:
-- **Dosen Pengampu** Mata Kuliah Pemodelan dan Simulasi Data
-- **SimPy Development Team** untuk framework simulation yang powerful
-- **Python Community** untuk ecosystem yang mendukung
-
----
-
 ## 📄 Lisensi
 
 Proyek ini dibuat untuk keperluan akademik dan pembelajaran.
